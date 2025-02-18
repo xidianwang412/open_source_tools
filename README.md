@@ -12,5 +12,6 @@
    
 无监督聚类：
  - https://github.com/xv44586/cluster
+ - https://github.com/bojone/infomap/blob/master/word_cluster.py (科学空间：https://kexue.fm/archives/7006)
 
 
